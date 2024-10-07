@@ -17,8 +17,8 @@ console.log(number)
 let boolean = true
 console.log(boolean)
 // è un valore per verificare il vero o falso
-let name = 'Giulia'
-console.log(name)
+let World = 'Giulia'
+console.log(World)
 // è una stringa con una sequenza di caratteri
 let ex = null
 console.log(ex)
