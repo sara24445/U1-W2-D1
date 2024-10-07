@@ -23,8 +23,7 @@ console.log(World)
 let ex = null
 console.log(ex)
 // è una variabila con un valore assegnato già nullo
-let undefined
-console.log(undefined)
+//let undefined=
 // variabile senza un valore assegnato
 
 /* ESERCIZIO 2
@@ -33,7 +32,6 @@ console.log(undefined)
 /* SCRIVI QUI LA TUA RISPOSTA */
 let myName = 'Sara'
 console.log(myName)
-
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
@@ -53,8 +51,7 @@ console.log('x', 12)
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
 /* SCRIVI QUI LA TUA RISPOSTA */
-const myName = 'Svergnini'
-console.log(myName)
+myName = 'Severgnini'
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
